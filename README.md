@@ -39,12 +39,10 @@
 
 # 📂 Projects
 
-### Sturoom (STACK3 Capstone Project)
+### Sturoom - STACK3
 - AI 학습 진단 및 문제 생성 플랫폼
 - Tech: Next.js / Supabase / FastAPI
 - 한림대학교 소프트웨어캡스톤디자인 금상 수상
-
-### ⭐ 
 
 ---
 
