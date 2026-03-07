@@ -35,6 +35,7 @@
 ![IntelliJ](https://img.shields.io/badge/IntelliJ-000000?style=flat&logo=intellijidea&logoColor=white)
 ![Notion](https://img.shields.io/badge/Notion-000000?style=flat&logo=notion&logoColor=white)
 ![VSCode](https://img.shields.io/badge/VSCode-007ACC?style=flat&logo=visualstudiocode&logoColor=white)
+
 ---
 
 # 📂 Projects
@@ -66,6 +67,8 @@
 
 - 2026년 <br>
   빅데이터학과 비생대책위원장(연임)
+
+---
 
 # 📫 Contact
 
